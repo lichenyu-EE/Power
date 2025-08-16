@@ -226,7 +226,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  Project Gallery:
     output: true
     permalink: /:collection/:path/
 
