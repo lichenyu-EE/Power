@@ -12,7 +12,7 @@ main:
     url: /experience/
     
   - title: "Project Gallery"
-    url: /gallery/    
+    url: /talks/    
 
   - title: "Teaching Experience"
     url: /teaching/    
