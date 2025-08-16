@@ -2,7 +2,7 @@
 title: "Talk 1 on Relevant Topic in Your Field"
 collection: gallery
 type: "Talk"
-permalink: /gallery/2012-03-01-talk-1
+permalink: /gallery/test
 venue: "UC San Francisco, Department of Testing"
 date: 2012-03-01
 location: "San Francisco, CA, USA"
